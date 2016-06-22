@@ -1,0 +1,2 @@
+# myindicator
+a simple indicator
